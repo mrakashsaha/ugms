@@ -6,7 +6,7 @@ The Indoor Game Management System is a web-based application designed to streaml
 
 ### 1. Home Page
    - **Description:** Landing page providing an introduction and navigation options.
-   - **File:** `pages/home.html`
+   - **File:** `pages/index.php`
   
 
 ### 2. Register Student
