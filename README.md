@@ -11,7 +11,7 @@ The Indoor Game Management System is a web-based application designed to streaml
 
 ### 2. Register Student
    - **Description:** Page for registering students into the system.
-   - **File:** `pages/register_student.php`
+   - **File:** `pages/registration.php`
 
 
 ### 3. Register Game
@@ -26,7 +26,11 @@ The Indoor Game Management System is a web-based application designed to streaml
 
 ### 5. Slot Booking List
    - **Description:** Page displaying a list of booked slots.
-   - **File:** `pages/slot_booking_list.php`
+   - **File:** `pages/game.php`
+
+### 5. Log out
+   - **Description:** Log out from the UGMS.
+   - **File:** `pages/logout.php`
 
 
 ## Database
