@@ -1,5 +1,6 @@
 <?php
 include 'connection.php';
+// php indexing
 
 // Define variables and initialize with empty values
 $student_id = $password = "";
