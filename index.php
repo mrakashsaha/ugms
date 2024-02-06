@@ -65,7 +65,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                 echo "Oops! Something went wrong. Please try again later.";
             }
 
-            // Close statement
+            // Close statement here
             $stmt->close();
         }
     }
