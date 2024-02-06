@@ -16,11 +16,11 @@ The University Game Management System is a web-based application designed to str
 
 ### 4. Game Registration
    - **Description:** Page allowing users to book slots for specific games.
-   - **File:** `pages/game.php`
+   - **File:** `game.php`
 
 ### 5. Log out
    - **Description:** Log out from the UGMS.
-   - **File:** `pages/logout.php`
+   - **File:** `logout.php`
 
 
 ## Database
@@ -32,15 +32,16 @@ The University Game Management System is a web-based application designed to str
 ## CSS Stylesheets, Script and Images
 
 ### CSS Stylesheets
-   - `/css/booking_slot_list_page.css`
-   - `/css/home_page.css`
-   - `/css/registration_page.css`
+   - `/css/style.css`
+   - `/css/regstyle.css`
+   - `/css/gamestyle.css`
+   - `/css/bootstrap.min.css`
 
 ### Script
-   - `/css/booking_slot_list_page.css`
-   - `/css/home_page.css`
-   - `/css/registration_page.css`
+   - `/script/gamejs.js`
+   - `/script/bootstrap.min.js`
+   - `/script/jquery-3.6.0.min.js`
 
 ### Images
-   - `assets/images/logo.png`
+   - `/images/SEU_logo.png`
    - **Description:** Images used in the application.
