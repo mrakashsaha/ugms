@@ -1,31 +1,21 @@
-# Indoor Game Management System
+# University Game Management System
 
-The Indoor Game Management System is a web-based application designed to streamline the management of indoor games. This system allows users to register students, manage game registrations, book slots, and view a list of booked slots.
+The University Game Management System is a web-based application designed to streamline the management of indoor games. This system allows users to register new students and booking appointment for game.
 
 ## Pages
 
-### 1. Home Page
-   - **Description:** Landing page providing an introduction and navigation options.
-   - **File:** `pages/index.php`
+### 1. Login Page
+   - **Description:** Landing page providing option for students to login also direct to Register Page for new students.
+   - **File:** `index.php`
   
 
 ### 2. Register Student
    - **Description:** Page for registering students into the system.
-   - **File:** `pages/registration.php`
+   - **File:** `registration.php`
 
 
-### 3. Register Game
-   - **Description:** Page for registering different indoor games.
-   - **File:** `pages/register_game.php`
-
-
-### 4. Booking Slot
+### 4. Game Registration
    - **Description:** Page allowing users to book slots for specific games.
-   - **File:** `pages/slot_booking.php`
-
-
-### 5. Slot Booking List
-   - **Description:** Page displaying a list of booked slots.
    - **File:** `pages/game.php`
 
 ### 5. Log out
@@ -36,15 +26,20 @@ The Indoor Game Management System is a web-based application designed to streaml
 ## Database
 
 ### Database Schema
-   - **File:** `db/indoor_game_management_system.sql`
+   - **File:** `database/ugms.sql`
    - **Description:** SQL script containing the database schema for the system.
 
-## CSS Stylesheets and Images
+## CSS Stylesheets, Script and Images
 
 ### CSS Stylesheets
-   - `assets/css/booking_slot_list_page.css`
-   - `assets/css/home_page.css`
-   - `assets/css/registration_page.css`
+   - `/css/booking_slot_list_page.css`
+   - `/css/home_page.css`
+   - `/css/registration_page.css`
+
+### Script
+   - `/css/booking_slot_list_page.css`
+   - `/css/home_page.css`
+   - `/css/registration_page.css`
 
 ### Images
    - `assets/images/logo.png`
