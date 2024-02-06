@@ -44,4 +44,4 @@ The University Game Management System is a web-based application designed to str
 
 ### Images
    - `/images/SEU_logo.png`
-   - **Description:** Images used in the app.
+   - **Description:** Images used in the application.
