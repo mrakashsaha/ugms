@@ -59,7 +59,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                     }
                 } else {
                     // Display an error message if student ID doesn't exist
-                    $student_id_err = "No account found with that student ID.";
+                    $student_id_err = "No account found with this student ID.";
                 }
             } else {
                 echo "Oops! Something went wrong. Please try again later.";
